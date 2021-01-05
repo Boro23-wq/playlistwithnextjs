@@ -1,6 +1,6 @@
+import { playlist } from '../data';
 import { List, Heading } from '@chakra-ui/core';
 
-import { playlist } from '../data';
 import Song from '../components/Song';
 
 export const getStaticProps = async () => {
