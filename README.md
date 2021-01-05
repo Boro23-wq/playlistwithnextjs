@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a playlist [Next.js](https://nextjs.org/) project.
+
+## Application Screens
+
+![screen-1](./assets/ss-1.png)
+![screen-2](./assets/ss-2.png)
 
 ## Getting Started
 
@@ -30,7 +35,7 @@ Then you can get the static website resources from the 'out' folder.
 
 ## When should I use getStaticProps?
 
-* The data required to render the page is available at build time ahead of a user’s request.
-* The data comes from a headless CMS.
-* The data can be publicly cached (not user-specific).
-* The page must be pre-rendered (for SEO) and be very fast — getStaticProps generates HTML and JSON files, both of which can be cached by a CDN for performance.
+- The data required to render the page is available at build time ahead of a user’s request.
+- The data comes from a headless CMS.
+- The data can be publicly cached (not user-specific).
+- The page must be pre-rendered (for SEO) and be very fast — getStaticProps generates HTML and JSON files, both of which can be cached by a CDN for performance.
