@@ -1,0 +1,42 @@
+export const playlist = [
+  {
+    id: 1,
+    name: 'D4L',
+    artist: 'Future, Drake & Young Thug',
+    genre: 'HipHop',
+    albumCoverUrl: 'https://i.ibb.co/9rTBzmD/D4L.jpg',
+    youtubeID: 'ldeLy8D_uSE',
+  },
+  {
+    id: 2,
+    name: 'Love Yourz',
+    artist: 'JCole',
+    genre: 'Rap',
+    albumCoverUrl: 'https://i.ibb.co/BZSJPvV/Jcole.jpg',
+    youtubeID: 'Ka4BxFizU7I',
+  },
+  {
+    id: 3,
+    name: 'Why would I Stop?',
+    artist: 'Big Sean',
+    genre: 'HipHop/Rap',
+    albumCoverUrl: 'https://i.ibb.co/8g4PFQp/Big-Sean.png',
+    youtubeID: 'httEG6zsM_U',
+  },
+  {
+    id: 4,
+    name: 'BOP on Broadway',
+    artist: 'DaBaby',
+    genre: 'Rap',
+    albumCoverUrl: 'https://i.ibb.co/0QbNF9s/dababy.jpg',
+    youtubeID: '28hYUZMufDg',
+  },
+  {
+    id: 5,
+    name: 'HIGHEST IN THE ROOM',
+    artist: 'Travis Scott',
+    genre: 'HipHop',
+    albumCoverUrl: 'https://i.ibb.co/bJxCHVT/travie.jpg',
+    youtubeID: 'tfSS1e3kYeo',
+  },
+];
